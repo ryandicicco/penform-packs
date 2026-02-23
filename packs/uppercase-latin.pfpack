@@ -1,0 +1,7 @@
+{
+  "name": "Uppercase Latin",
+  "description": "All 26 uppercase letters A–Z",
+  "version": "1.0",
+  "characters": ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z"],
+  "template_url": ""
+}
